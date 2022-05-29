@@ -1,0 +1,40 @@
+.carousel {
+position: relative;
+height: 850px;
+width: 10%;
+margin: 0;
+
+}
+
+.carousel {
+    width: 100%;
+}
+
+.carousel_image {
+    width: 35%;
+    height: 35%;
+    object-fit: cover;
+    border: 1px green solid;
+    
+}
+.carousel_track-container {
+    background: lightgrey;
+    height: 100%;
+    position: relative;
+}
+
+.carousel_track{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.carousel_slide {
+ 
+    top: 0;
+ bottom: 0;
+ width: 100%; 
+ 
+    
+}
+
